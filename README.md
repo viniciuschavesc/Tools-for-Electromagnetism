@@ -1,2 +1,4 @@
-# viniciuschavesc-Tools-for-Electromagnetism
-viniciuschavesc/Tools-for-Electromagnetism
+# Tools for Eletromagnetism
+
+As a Physics teacher, I had to develop algorithms in C and Python to find answers to classical problems in Electromagnetism.
+
